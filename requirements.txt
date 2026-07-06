@@ -1,2 +1,3 @@
-playwright        ==  1.59.0    # The Playwright library for browser automation.
-pytest-playwright ==  0.7.2     # Pytest plugin for Playwright, enabling easy integration of Playwright tests with pytest.
+pytest            ==  9.1.1      # For testing framework
+playwright        ==  1.61.0     # The Playwright library for browser automation.
+pytest-playwright ==  0.8.0      # Pytest plugin for Playwright, enabling easy integration of Playwright tests with pytest.
